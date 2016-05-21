@@ -4,8 +4,15 @@
         <description><![CDATA[Catholic Charities]]></description>
         <link>https://thegrid.ai/catholic-charities/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 00:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 01:02:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/catholic-charities/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shelter & Housing | Catholic Charities of Santa Rosa]]></title>
+            <description><![CDATA[<article><h1>Shelter & Housing | Catholic Charities of Santa Rosa</h1><p>We offer emotional support, counseling, information, and education to help you find your way back to living with dignity and hope.&#xA0;To get help with shelter and housing, click here. Homeless Services Center This is a first point of contact if you</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47ead862a61b2190e5fa54ed60dccd2b85057c07.png"></article>]]></description>
+            <link>http://www.srcharities.org/get-help/shelter-housing</link>
+            <guid isPermaLink="false">d5068365-cc5c-4ada-bfab-9d24a4fbbcd1</guid>
+            <pubDate>Sat, 21 May 2016 01:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photo by Ismael Nieto | Unsplash]]></title>
             <description><![CDATA[<article><h1>Photo by Ismael Nieto | Unsplash</h1><p>Do-whatever-you-want high-resolution photo from Ismael Nieto on Unsplash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bf0169e60f50f774651aa15f3d7f762e9a7ed48.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=6IYPgqTjziE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">979319d4-a5dd-47e2-92b2-7b4b5867bcfc</guid>
             <pubDate>Sat, 21 May 2016 00:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Reasons Your Blog Needs an App - TechiNews24.com]]></title>
-            <description><![CDATA[<article><h1>5 Reasons Your Blog Needs an App - TechiNews24.com</h1><p>In the recent years, mobile apps have gained an upper hand over web browsers both in terms of screen time and revenue. Mobile apps are changing the way we shop, share, search and read. More and more readers are switching to apps for quenching their reading pangs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a3e341feebb45f0677a0f5067b3d2868c060f4e.jpg"></article>]]></description>
-            <link>http://techinews24.com/5-reasons-your-blog-needs-an-app/</link>
-            <guid isPermaLink="false">99ed2df2-c6e1-420a-9c28-8e622454b866</guid>
-            <pubDate>Sat, 21 May 2016 00:45:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
